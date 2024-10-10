@@ -1,4 +1,4 @@
-"""
+##CZateria BOT
 ==================================================================
 UWAGA: Ten kod został stworzony wyłącznie w celach edukacyjnych. 
 Ma na celu zilustrowanie, jak można zautomatyzować interakcje 
@@ -14,7 +14,7 @@ regulaminy. Przed użyciem kodu upewnij się, że przestrzegasz
 wszystkich zasad i regulacji danej platformy.
 
 ==================================================================
-"""
+
 
 
 
