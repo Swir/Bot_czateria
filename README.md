@@ -12,6 +12,7 @@ Korzystanie z automatyzacji w celu interakcji z aplikacjami
 internetowymi, takimi jak czateria.interia.pl, może naruszać ich 
 regulaminy. Przed użyciem kodu upewnij się, że przestrzegasz 
 wszystkich zasad i regulacji danej platformy.
+
 ==================================================================
 """
 
