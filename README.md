@@ -1,3 +1,23 @@
+"""
+==================================================================
+UWAGA: Ten kod został stworzony wyłącznie w celach edukacyjnych. 
+Ma na celu zilustrowanie, jak można zautomatyzować interakcje 
+z przeglądarką za pomocą biblioteki Selenium. 
+
+Autor tego kodu nie bierze odpowiedzialności za jakiekolwiek 
+dalsze modyfikacje, użycie, ani za ewentualne konsekwencje wynikające 
+z użycia tego kodu przez innych użytkowników.
+
+Korzystanie z automatyzacji w celu interakcji z aplikacjami 
+internetowymi, takimi jak czateria.interia.pl, może naruszać ich 
+regulaminy. Przed użyciem kodu upewnij się, że przestrzegasz 
+wszystkich zasad i regulacji danej platformy.
+==================================================================
+"""
+
+
+
+
 Aby napisać w pełni działającego bota, który będzie działał na czateria.interia.pl, trzeba przejść przez kilka kroków, w tym zrozumienie struktury strony oraz użycie Selenium do pełnej automatyzacji logowania i czatu. Poniżej przedstawiam szczegółowy plan wraz z udoskonalonym kodem, który powinien działać z czateria.interia.pl.
 Kroki, które przeprowadzimy:
 
