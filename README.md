@@ -19,7 +19,7 @@ wszystkich zasad i regulacji danej platformy.
 
 
 
-Aby napisać w pełni działającego bota, który będzie działał na czateria.interia.pl, trzeba przejść przez kilka kroków, w tym zrozumienie struktury strony oraz użycie Selenium do pełnej automatyzacji logowania i czatu. Poniżej przedstawiam szczegółowy plan wraz z udoskonalonym kodem, który powinien działać z czateria.interia.pl.
+Aby napisać w pełni działającego bota, który będzie działał na czateria.interia.pl, trzeba przejść przez kilka kroków, w tym zrozumienie struktury strony oraz użycie Selenium do pełnej automatyzacji logowania i czatu.
 Kroki, które przeprowadzimy:
 
     Instalacja i konfiguracja Selenium oraz WebDrivera.
